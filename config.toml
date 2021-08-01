@@ -1,5 +1,5 @@
-baseURL = "https://jitangupta.com/"
+baseURL = "http://learn-code-share.github.io/hugo-quickstart/"
 languageCode = "en-us"
-title = "Full Stack Engineer | Jitan Gupta"
+title = "Hugo Site Quick Start"
 theme = "ananke"
 
