@@ -48,5 +48,18 @@ hugo -D
 Output will be in `./public/` directory by default (`-d`/`--destination` flag to change it, or set `publishdir` in the config file).
 
 ---
-# Deploying Hugo Site on GitHub Pages
+# Hugo Custom Theme
+Creating a new theme hugo is verify simple as below
+
+```
+1//
+hugo new site custom-theme
+cd custome-theme
+
+//2
+hugo new theme todu-theme
+```
+Your theme is now created
+You can update config.toml
+![image](https://user-images.githubusercontent.com/11292363/127973788-f6a4792f-12d9-42fe-954c-54877d875753.png)
 
